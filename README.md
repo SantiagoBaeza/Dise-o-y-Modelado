@@ -1,3 +1,4 @@
+[⬅️ Volver al repositorio principal](https://github.com/SantiagoBaeza/Portafolio-tecnico)
 # Proyectos de Diseño y Modelado
 
 Este espacio reúne mis proyectos de diseño electrónico y mecánico.  
