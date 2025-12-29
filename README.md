@@ -26,6 +26,6 @@ Planos técnicos de piezas, vistas y escalas para proyectos mecánicos y electr�
 
 ---
 
-### 📌 Nota
+### Objetivos
 Este repositorio funciona como índice de proyectos de diseño.  
 Cada sección enlaza a repositorios específicos donde se encuentra la documentación y los archivos.
