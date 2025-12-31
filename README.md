@@ -16,7 +16,7 @@ Incluye esquemas, layout y archivos Gerber listos para fabricar.
 ## Diseño 3D (Fusion 360)
 Modelado de gabinetes, soportes y piezas funcionales para electrónica o automatización.  
 Archivos `.stl`, `.step` y renders del diseño.  
-🔗 [Ver proyectos de Diseño 3D](https://github.com/SantiagoBaeza/-Dise-os-3D-/blob/main/README.md)
+🔗 [Ver proyectos de Diseño 3D](https://github.com/SantiagoBaeza/-Dise-os-3D-/tree/main)
 
 ---
 
