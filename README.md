@@ -9,7 +9,7 @@ Incluye trabajos con **PCBs (KiCad)**, **modelado 3D (Fusion 360)** y **diseño 
 
 ## Índice de Proyectos
 
-- **Diseño de PCBs (KiCad)**  
+- **Diseño de PCBs (KiCad) [N/A]**  
   Diseños propios de placas para sensores, controladores y módulos simples.  
   Incluye esquemas, layout y archivos Gerber listos para fabricar.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Dise-o-de-PCBs-KiCad-/tree/main)
@@ -19,7 +19,7 @@ Incluye trabajos con **PCBs (KiCad)**, **modelado 3D (Fusion 360)** y **diseño 
   Archivos `.stl`, `.step` y renders del diseño.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/-Dise-os-3D-/tree/main)
 
-- **Diseño 2D (AutoCAD)**  
+- **Diseño 2D (AutoCAD) [N/A]**  
   Planos técnicos de piezas, vistas y escalas para proyectos mecánicos y electrónicos.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Dise-o-2D-AutoCAD-)
 
