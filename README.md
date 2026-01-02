@@ -16,11 +16,11 @@ Incluye esquemas, layout y archivos Gerber listos para fabricar.
 - **Diseño 3D (Fusion 360)**
   Modelado de gabinetes, soportes y piezas funcionales para electrónica o automatización.  
 Archivos `.stl`, `.step` y renders del diseño.  
-🔗 [Ver proyectos de Diseño 3D](https://github.com/SantiagoBaeza/-Dise-os-3D-/tree/main)
+🔗 [Ver repositorio](https://github.com/SantiagoBaeza/-Dise-os-3D-/tree/main)
 
 - **Diseño 2D (AutoCAD)**
   Planos técnicos de piezas, vistas y escalas para proyectos mecánicos y electrónicos.  
-🔗 [En construccion](enlace_aca)
+🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Dise-o-2D-AutoCAD-)
 
 ---
 
