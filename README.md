@@ -9,7 +9,7 @@ Incluye trabajos con **PCBs (KiCad)**, **modelado 3D (Fusion 360)** y **diseño 
 ## Diseño de PCBs (KiCad)
 Diseños propios de placas para sensores, controladores y módulos simples.  
 Incluye esquemas, layout y archivos Gerber listos para fabricar.  
-🔗 [En construccion](enlace_aca)
+🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Dise-o-de-PCBs-KiCad-/tree/main)
 
 ---
 
